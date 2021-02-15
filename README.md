@@ -1,4 +1,4 @@
-# Insertion-in-array
+# Insertion-in-array-using-C
 
 An array is a collection of items stored at contiguous memory locations. In this code, you will see that how to insert an element in an array in C.
 Given an array arr of size n, And also you know that how to insert an element X in this array arr at a specific position index.
