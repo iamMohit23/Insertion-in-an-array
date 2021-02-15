@@ -9,6 +9,7 @@ void display(int arr[], int n)
     }
     printf("\n");
 }
+
 int indInsertion(int arr[], int size, int element, int capacity, int index)
 {
     // code for Insertion
